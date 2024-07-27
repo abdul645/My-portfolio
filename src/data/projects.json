@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Ride booking web application",
+      "imageSrc": "projects/RideEase.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["JavaScript", "MERN"],
+      "demo": "https://rideease-web-application.onrender.com/",
+      "source": "https://github.com/abdul645/RideEase-web-Application"
+    },
+    {
+      "title": "React router Project",
+      "imageSrc": "projects/ContextAPI.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "TailwindCSS"],
+      "demo": "https://react-router-one-nu.vercel.app",
+      "source": "https://github.com/abdul645/react-router"
+    },
+    {
+      "title": "Password generator ",
+      "imageSrc": "projects/Pass.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "TailwindCSS"],
+      "demo": "https://react-password-generator-silk-eight.vercel.app/",
+      "source": "https://github.com/abdul645/react-password-generator"
+    }
+  ]

@@ -1,0 +1,108 @@
+
+
+@import '../../vars.css';
+/* importing variables */
+
+.navbar {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 30px;
+    z-index: 2;
+    padding-left: 10%;
+    padding-bottom: 20px;
+    border-bottom: 1.5px solid black;
+    box-shadow: 0 0 15px #000;
+}
+
+.title {
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+    color: var(--color-text);
+}
+.title img{
+    height: 80px;
+    width: 80px;
+}
+
+.menuBtn{
+    display: none;
+}
+
+.menu {
+    display: flex;
+
+}
+
+.menuItems {
+    display: flex;
+    /* margin-left: 20px; */
+    gap: 35px;
+    list-style: none;
+    /* background-color: wheat; */
+    align-items: center;
+
+}
+
+.menuItems a {
+    font-size: 22px;
+    color: var(--color-text);
+    text-decoration: none;
+}
+.contactBtn{
+    text-decoration: none;
+    background-color: var(--color-primary);
+    color: var(--color-text);
+    border-radius: 100px;
+    font-size: 18px !important;
+    font-weight: 500;
+    padding: 14px 22px;
+    margin-right: 40px;
+    box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+    display: flex;
+    align-items: center;
+}
+.wtsIcon{
+    margin-right: 5px;
+    font-size: 20px;
+}
+@media screen and (max-width: 830px) {
+    .navbar {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .menu {
+        position: absolute;
+        right: 0;
+        margin-right: 10%;
+        flex-direction: column;
+        align-items: flex-end;
+        gap: 11px;
+        z-index: 3;
+    }
+
+    .menuBtn {
+        display: block;
+        cursor: pointer;
+    }
+
+    .menuItems {
+        display: none;
+        flex-direction: column;
+        align-items: center;
+        gap: 13px;
+        border-radius: 10px;
+        background: rgb(25, 55, 109);
+        background: linear-gradient(0deg, rgba(22, 55, 109, 0.7)0%, rgba(25, 55, 109, 1)100%);
+        padding: 24px 33px;
+        box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+    }
+
+    .menuOpen{
+        display: flex;
+        z-index: 1;
+    }
+}
