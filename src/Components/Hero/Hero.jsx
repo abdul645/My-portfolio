@@ -9,10 +9,11 @@ export const Hero = () => {
         <section className={styles.container}>
             <div className={styles.content}>
                 <h1 className={styles.title}>Hi, I'm Abdul Azeem</h1>
-                <p className={styles.description}>My name is Abdul Azeem, and I am a passionate
-                    software engineer and problem solver, dedicated to creating impactful codes that
-                    thrive on the internet. I love learning about new technologies, what problems are
-                    they solving and How can I use them to build better and scalable products.</p>
+                <p className={styles.description}>My name is Abdul Azeem, and I am an enthusiastic 
+                    software engineer with a profound commitment to developing impactful code that
+                     excels in the digital realm. I possess a keen interest in exploring emerging technologies,
+                      understanding the problems they address, and leveraging them to construct superior
+                       and scalable products.</p>
                 <ul className={styles.socailBtn}>
                     <li>
                         <a href="https://drive.google.com/file/d/1SsobTLNEOeVNqKEdn-5bWdfIIeUIFuug/view?usp=drivesdk" className={styles.contactBtn}>Download  CV</a>
