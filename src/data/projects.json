@@ -2,15 +2,15 @@
     {
       "title": "Ride booking web application",
       "imageSrc": "projects/RideEase.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "description": "Developed a comprehensive ride booking app with features for route mapping and user authentication. Successfully managed the entire development process from conception to deployment.",
       "skills": ["JavaScript", "MERN"],
       "demo": "https://rideease-web-application.onrender.com/",
       "source": "https://github.com/abdul645/RideEase-web-Application"
     },
     {
-      "title": "React router Project",
+      "title": "Context API demo",
       "imageSrc": "projects/ContextAPI.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "description": "Developed a demo project showcasing the capabilities of Context API for efficient state management in React applications. Demonstrated the seamless sharing of state across multiple components without prop drilling.",
       "skills": ["React", "TailwindCSS"],
       "demo": "https://react-router-one-nu.vercel.app",
       "source": "https://github.com/abdul645/react-router"
@@ -18,7 +18,7 @@
     {
       "title": "Password generator ",
       "imageSrc": "projects/Pass.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "description": "Developed a password generator web app designed to create strong, secure passwords for users. The app features customizable options for length and complexity to enhance online security.",
       "skills": ["React", "TailwindCSS"],
       "demo": "https://react-password-generator-silk-eight.vercel.app/",
       "source": "https://github.com/abdul645/react-password-generator"
