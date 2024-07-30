@@ -22,5 +22,13 @@
       "skills": ["React", "TailwindCSS"],
       "demo": "https://react-password-generator-silk-eight.vercel.app/",
       "source": "https://github.com/abdul645/react-password-generator"
+    },
+    {
+      "title": "Currency Converter",
+      "imageSrc": "projects/currency.png",
+      "description": "Developed a currency converter web app utilizes APIs to provide real-time and accurate currency exchange rates, ensuring users get the most current information for their conversions.",
+      "skills": ["React", "TailwindCSS"],
+      "demo": "https://currency-converter-iota-two.vercel.app/",
+      "source": "https://github.com/abdul645/Currency-converter"
     }
   ]
