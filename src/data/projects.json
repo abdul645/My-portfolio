@@ -31,4 +31,13 @@
       "demo": "https://currency-converter-iota-two.vercel.app/",
       "source": "https://github.com/abdul645/Currency-converter"
     }
+    ,
+    {
+      "title": "Quiz App",
+      "imageSrc": "projects/quiz.png",
+      "description": "Developed an engaging quiz app designed to test and enhance users' knowledge on various topics. This app offers an interactive experience with a wide range of questions.",
+      "skills": ["HTML5", "CSS", "JavaScript"],
+      "demo": "https://amethyst-karilynn-80.tiiny.site/",
+      "source": "https://github.com/abdul645/Quiz-App"
+    }
   ]
