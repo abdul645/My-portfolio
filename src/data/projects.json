@@ -4,8 +4,8 @@
       "imageSrc": "projects/RideEase.png",
       "description": "Developed a comprehensive ride booking app with features for route mapping and user authentication. Successfully managed the entire development process from conception to deployment.",
       "skills": ["JavaScript", "MERN"],
-      "demo": "https://rideease-web-application.onrender.com/",
-      "source": "https://github.com/abdul645/RideEase-web-Application"
+      "demo": "https://ride-booking-web-application.onrender.com/",
+      "source": "https://github.com/abdul645/Ride-booking-web-application"
     },
     {
       "title": "Context API demo",
