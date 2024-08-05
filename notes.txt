@@ -18,3 +18,17 @@
       ],
       "imageSrc": "history/netflix.png"
     }
+
+
+
+    projects
+
+    
+     {
+      "title": "Context API demo",
+      "imageSrc": "projects/ContextAPI.png",
+      "description": "Developed a demo project showcasing the capabilities of Context API for efficient state management in React applications. Demonstrated the seamless sharing of state across multiple components without prop drilling.",
+      "skills": ["React", "TailwindCSS"],
+      "demo": "https://react-router-one-nu.vercel.app",
+      "source": "https://github.com/abdul645/react-router"
+    },
