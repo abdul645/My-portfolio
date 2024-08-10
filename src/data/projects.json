@@ -7,7 +7,14 @@
       "demo": "https://ride-booking-web-application.onrender.com/",
       "source": "https://github.com/abdul645/Ride-booking-web-application"
     },
-   
+    {
+      "title": "Notes App",
+      "imageSrc": "projects/notesapp.png",
+      "description": "A versatile and user-friendly notes application developed. This app allows users to create, edit, organize, and delete notes with ease.",
+      "skills": ["HTML5", "CSS", "JavaScript"],
+      "demo": "https://abdul645.github.io/Notes-app/Notes.html",
+      "source": "https://github.com/abdul645/Notes-app"
+    },
     {
       "title": "Password generator ",
       "imageSrc": "projects/Pass.png",
