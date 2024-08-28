@@ -8,7 +8,7 @@
       "source": "https://github.com/abdul645/Ride-booking-web-application"
     },
     {
-      "title": "Notes App",
+      "title": "Notes app",
       "imageSrc": "projects/notesapp.png",
       "description": "A versatile and user-friendly notes application developed. This app allows users to create, edit, organize, and delete notes with ease.",
       "skills": ["HTML5", "CSS", "JavaScript"],
@@ -24,7 +24,7 @@
       "source": "https://github.com/abdul645/react-password-generator"
     },
     {
-      "title": "Currency Converter",
+      "title": "Currency converter",
       "imageSrc": "projects/currency.png",
       "description": "Developed a currency converter web app utilizes APIs to provide real-time and accurate currency exchange rates, ensuring users get the most current information for their conversions.",
       "skills": ["React", "TailwindCSS"],
@@ -33,7 +33,7 @@
     }
     ,
     {
-      "title": "Quiz App",
+      "title": "Quiz app",
       "imageSrc": "projects/quiz.png",
       "description": "Developed an engaging quiz app designed to test and enhance users' knowledge on various topics. This app offers an interactive experience with a wide range of questions.",
       "skills": ["HTML5", "CSS", "JavaScript"],

@@ -8,15 +8,14 @@ export const Hero = () => {
     return (
         <section className={styles.container}>
             <div className={styles.content}>
-                <h1 className={styles.title}>Hi, I'm Abdul Azeem</h1>
-                <p className={styles.description}>My name is Abdul Azeem, and I am an enthusiastic 
-                    software engineer with a profound commitment to developing impactful code that
-                     excels in the digital realm. I possess a keen interest in exploring emerging technologies,
-                      understanding the problems they address, and leveraging them to construct superior
-                       and scalable products.</p>
+                <h1 className={styles.title}>Abdul Azeem</h1>
+                <p className={styles.description}>Being a software engineer, I enjoy writing code that has 
+                    business value in the digital world. I am often wanting to take a deeper look into new 
+                    technologies, figuring out what problems they can solve, and employing them to create 
+                    solid and scalable solutions.</p>
                 <ul className={styles.socailBtn}>
                     <li>
-                        <a href="https://drive.google.com/file/d/1i8sit-8VdaHRCzKYlhaleZ7L22OpbRkE/view?usp=drivesdk" className={styles.contactBtn}>Download  CV</a>
+                        <a href="https://drive.google.com/file/d/15X3WqO8VZcp09a5MdAMI55LW76jmki2u/view?usp=drivesdk" className={styles.contactBtn}>Download  CV</a>
                     </li>
                     <ul className={styles.BtnLinks}>
                         <li className={styles.Btn}>
