@@ -8,6 +8,14 @@
       "source": "https://github.com/abdul645/Ride-booking-web-application"
     },
     {
+      "title": "Chat application",
+      "imageSrc": "projects/chatapp.png",
+      "description": "Developed a chat application using the MERN stack and Socket.IO for real-time conversations. Ensures smooth and instant messaging for a seamless user experience.",
+      "skills": ["MERN", "TailwindCSS", "JavaScript"],
+      "demo": "https://chat-application-oil9.onrender.com/login",
+      "source": "https://github.com/abdul645/Chat-application"
+    },
+    {
       "title": "Notes app",
       "imageSrc": "projects/notesapp.png",
       "description": "A versatile and user-friendly notes application developed. This app allows users to create, edit, organize, and delete notes with ease.",

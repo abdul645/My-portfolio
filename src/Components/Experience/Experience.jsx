@@ -25,7 +25,6 @@ export const Experience = () => {
                     <p>{skill.title}</p>
                   </div>
                 )
-
               })
             }
           </div>
