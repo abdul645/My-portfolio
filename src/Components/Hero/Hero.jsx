@@ -15,7 +15,7 @@ export const Hero = () => {
                     solid and scalable solutions.</p>
                 <ul className={styles.socailBtn}>
                     <li>
-                        <a href="https://drive.google.com/file/d/1ScisH-aukaECbIZOKl5F-tEp9YoeSyCD/view?usp=drivesdk" className={styles.contactBtn}>Download  CV</a>
+                        <a href="https://drive.google.com/file/d/1XuT-AF3xrc0n-2VOwfAj82uGNKRDuxGv/view?usp=drivesdk" className={styles.contactBtn}>Download  CV</a>
                     </li>
                     <ul className={styles.BtnLinks}>
                         <li className={styles.Btn}>
