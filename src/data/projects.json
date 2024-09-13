@@ -22,6 +22,15 @@
       "skills": ["HTML5", "CSS", "JavaScript"],
       "demo": "https://abdul645.github.io/Notes-app/Notes.html",
       "source": "https://github.com/abdul645/Notes-app"
+    }
+    ,
+    {
+      "title": "Task Tracker",
+      "imageSrc": "projects/taskTracker.png",
+      "description": "Developed a task tracker app for managing and tracking tasks, allowing users to add, update, and delete tasks for better organization.",
+      "skills": ["React", "TailwindCSS", "Redux Toolkit"],
+      "demo": "https://task-tracker-cyan-one.vercel.app/",
+      "source": "https://github.com/abdul645/Task-Tracker"
     },
     {
       "title": "Password generator ",
