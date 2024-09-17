@@ -8,7 +8,7 @@
       "source": "https://github.com/abdul645/Ride-booking-web-application"
     },
     {
-      "title": "Chat application",
+      "title": "Real-Time Chat application",
       "imageSrc": "projects/chatapp.png",
       "description": "Developed a chat application using the MERN stack and Socket.IO for real-time conversations. Ensures smooth and instant messaging for a seamless user experience.",
       "skills": ["MERN", "TailwindCSS", "JavaScript"],
