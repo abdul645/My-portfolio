@@ -1,13 +1,5 @@
 [
   {
-    "title": "C",
-    "imageSrc": "skills/letter-c.png"
-  },
-  {
-    "title": "C++",
-    "imageSrc": "skills/c++.png"
-  },
-  {
     "title": "Java",
     "imageSrc": "skills/java.png"
   },
@@ -19,15 +11,6 @@
     "title": "React",
     "imageSrc": "skills/react.png"
   },
-  {
-    "title": "HTML",
-    "imageSrc": "skills/html.png"
-  },
-  {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
-  },
- 
   {
     "title": "Node",
     "imageSrc": "skills/nodejs.png"
@@ -41,6 +24,20 @@
     "title": "MySQL",
     "imageSrc": "skills/mysql.png"
   },
+  {
+    "title": "C",
+    "imageSrc": "skills/letter-c.png"
+  },
+  
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  
   {
     "title": "WordPress",
     "imageSrc": "skills/wordpress.png"
