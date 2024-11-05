@@ -55,8 +55,6 @@ export const Experience = () => {
                 )
               })
             }
-
-
           </ul>
         </div>
       </div>

@@ -8,14 +8,14 @@ export const Hero = () => {
     return (
         <section className={styles.container}>
             <div className={styles.content}>
-                <h1 className={styles.title}>Abdul Azeem</h1>
+                <h1 className={styles.title}>Hi, Abdul Azeem</h1>
                 <p className={styles.description}>Being a software engineer, I enjoy writing code that has 
                     business value in the digital world. I am often wanting to take a deeper look into new 
                     technologies, figuring out what problems they can solve, and employing them to create 
                     solid and scalable solutions.</p>
                 <ul className={styles.socailBtn}>
                     <li>
-                        <a href="https://drive.google.com/file/d/1XuT-AF3xrc0n-2VOwfAj82uGNKRDuxGv/view?usp=drivesdk" className={styles.contactBtn}>Download  CV</a>
+                        <a href="https://drive.google.com/file/d/1ptx7Yh3Zzr5gy9rSDqxjIiA3vV6AyQ7p/view" className={styles.contactBtn}>Download  CV</a>
                     </li>
                     <ul className={styles.BtnLinks}>
                         <li className={styles.Btn}>
