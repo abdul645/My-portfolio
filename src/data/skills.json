@@ -27,7 +27,6 @@
     "title": "C",
     "imageSrc": "skills/letter-c.png"
   },
-  
   {
     "title": "HTML",
     "imageSrc": "skills/html.png"
@@ -36,9 +35,12 @@
     "title": "CSS",
     "imageSrc": "skills/css.png"
   },
-  
   {
     "title": "WordPress",
     "imageSrc": "skills/wordpress.png"
+  },
+  {
+    "title": "Tailwind",
+    "imageSrc": "skills/tailwindcss.png"
   }
 ]
