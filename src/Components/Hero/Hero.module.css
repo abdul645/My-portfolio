@@ -21,18 +21,67 @@
 }
 
 .title {
-    font-size: 50px;
+    font-size: 30px;
     font-weight: 900;
-    margin-bottom: 30px;
+    /* margin-bottom: 3px; */
     color: var(--color-text) !important;
     font-family: var(--font-roboto);
-    /* background: linear-gradient(90deg,
+    background: linear-gradient(90deg,
             rgba(255, 255, 255, 1)70%,
             rgba(255, 255, 255, 0)120%);
     -webkit-text-fill-color: transparent;
-    -webkit-background-clip: text; */
-
+    -webkit-background-clip: text;
 }
+.nameTitle {
+    font-size: 45px;
+    font-weight: 900;
+    margin-bottom: 6px;
+    color: var(--color-text) !important;
+    font-family: var(--font-roboto);
+    background: linear-gradient(90deg,
+            rgba(255, 255, 255, 1)70%,
+            rgba(255, 255, 255, 0)120%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+.profileTitle {
+    font-size: 30px;
+    font-weight: 900;
+    margin-bottom: 20px;
+    color: var(--color-text) !important;
+    font-family: var(--font-roboto);
+    background: linear-gradient(90deg,
+            rgba(255, 255, 255, 1)70%,
+            rgba(255, 255, 255, 0)120%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.animatedWord {
+    display: inline-block;
+    background: linear-gradient(90deg,
+    rgba(173, 96, 232, 1)70%,
+    rgba(66, 19, 101)120%);
+-webkit-text-fill-color: transparent;
+-webkit-background-clip: text;
+    /* color: #ad60e8; */
+    /* margin-left: .5vw; */
+}
+
+.cursor {
+    display: inline-block;
+    background-color: #a76060;
+    width: 2px;
+    height: .9em;
+    animation: blink 0.7s step-end infinite;
+}
+
+@keyframes blink {
+    50% {
+        opacity: 0;
+    }
+}
+
 
 .description {
     width: 80%;

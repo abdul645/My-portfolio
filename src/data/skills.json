@@ -4,16 +4,16 @@
     "imageSrc": "skills/java.png"
   },
   {
+    "title": "Node",
+    "imageSrc": "skills/nodejs.png"
+  },
+  {
     "title": "JavaScript",
     "imageSrc": "skills/java-script.png"
   },
   {
     "title": "React",
     "imageSrc": "skills/react.png"
-  },
-  {
-    "title": "Node",
-    "imageSrc": "skills/nodejs.png"
   },
   {
     "title": "MongoDB",

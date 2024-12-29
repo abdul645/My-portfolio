@@ -1,46 +1,100 @@
-@import "../../vars.css";
-
-.container{
+.container {
     margin-top: 90px;
     color: var(--color-text);
-    margin-left: 10%;
-    margin-right: 7%;
-
+    margin: 6.5%;
 }
 
-.title{
+.title {
     font-size: 35px;
     font-weight: 700;
     letter-spacing: 1.75px;
     text-transform: uppercase;
-
+    text-align: center;
 }
-.projects{
-    margin-top: 37px;
+
+.wrapper {
+    position: relative;
     display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
     align-items: center;
-    gap: 25px;
+    /* background-color: yellow; */
     width: 100%;
 }
 
-@media screen and (max-width:830px) {
-    .projects{
-        flex-direction: column;
-
-    }
-    
+.projects {
+    margin: 25px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 25px;
+    width: 100%;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    padding-bottom: 10px;
 }
 
-@media screen and (max-width:767px) {
-    .container{
+.projects::-webkit-scrollbar {
+    height: 8px;
+}
+
+.projects::-webkit-scrollbar-thumb {
+    background-color: var(--color-primary);
+    border-radius: 4px;
+}
+
+.projects::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.1);
+}
+
+.projects > * {
+    flex: 0 0 auto;
+    scroll-snap-align: start;
+}
+
+.scrollButton {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: var(--color-primary);
+    color: var(--color-light);
+    border: none;
+    padding: 9px;
+    width: 3.3vw;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 20px;
+    z-index: 10;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+.scrollButton:hover {
+    background-color: var(--color-secondary);
+}
+
+.scrollButton:disabled {
+    background-color: rgba(0, 0, 0, 0.2);
+    cursor: not-allowed;
+}
+
+.scrollButton:first-of-type {
+    left: -40px;
+}
+
+.scrollButton:last-of-type {
+    right: -40px;
+}
+
+@media screen and (max-width: 767px) {
+    .container {
         margin-left: 3%;
         margin-right: 3%;
     }
-    .title{
-        text-align: center;
+    .title {
         font-size: 30px;
-    
+    }
+    .scrollButton:first-of-type {
+        left: 10px;
+    }
+    .scrollButton:last-of-type {
+        right: 10px;
     }
 }
