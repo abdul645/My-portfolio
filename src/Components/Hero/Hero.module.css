@@ -26,11 +26,11 @@
     /* margin-bottom: 3px; */
     color: var(--color-text) !important;
     font-family: var(--font-roboto);
-    background: linear-gradient(90deg,
+    /* background: linear-gradient(90deg,
             rgba(255, 255, 255, 1)70%,
             rgba(255, 255, 255, 0)120%);
     -webkit-text-fill-color: transparent;
-    -webkit-background-clip: text;
+    -webkit-background-clip: text; */
 }
 .nameTitle {
     font-size: 45px;
@@ -38,11 +38,11 @@
     margin-bottom: 6px;
     color: var(--color-text) !important;
     font-family: var(--font-roboto);
-    background: linear-gradient(90deg,
+    /* background: linear-gradient(90deg,
             rgba(255, 255, 255, 1)70%,
             rgba(255, 255, 255, 0)120%);
     -webkit-text-fill-color: transparent;
-    -webkit-background-clip: text;
+    -webkit-background-clip: text; */
 }
 .profileTitle {
     font-size: 30px;
@@ -50,11 +50,11 @@
     margin-bottom: 20px;
     color: var(--color-text) !important;
     font-family: var(--font-roboto);
-    background: linear-gradient(90deg,
+    /* background: linear-gradient(90deg,
             rgba(255, 255, 255, 1)70%,
             rgba(255, 255, 255, 0)120%);
     -webkit-text-fill-color: transparent;
-    -webkit-background-clip: text;
+    -webkit-background-clip: text; */
 }
 
 .animatedWord {
