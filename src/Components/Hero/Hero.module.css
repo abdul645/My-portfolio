@@ -67,7 +67,7 @@
     rgba(66, 19, 101)120%);
 -webkit-text-fill-color: transparent;
 -webkit-background-clip: text;
-z-index: 90;
+z-index: 1;
     /* color: #ad60e8; */
     /* margin-left: .5vw; */
 }
