@@ -62,13 +62,13 @@
 
 .animatedWord {
     display: inline-block;
-    background: linear-gradient(90deg,
+    /* background: linear-gradient(90deg,
     rgba(173, 96, 232, 1)70%,
     rgba(66, 19, 101)120%);
 -webkit-text-fill-color: transparent;
--webkit-background-clip: text;
+-webkit-background-clip: text; */
 z-index: 1;
-    /* color: #ad60e8; */
+    color: #ad60e8;
     /* margin-left: .5vw; */
 }
 
