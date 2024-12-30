@@ -91,6 +91,12 @@
     .title {
         font-size: 30px;
     }
+    .scrollButton {
+        background-color: var(--color-primary);
+        color: var(--color-light);
+        border: none;
+        width: 10vw;
+    }
     .scrollButton:first-of-type {
         left: 10px;
     }
