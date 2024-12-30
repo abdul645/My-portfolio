@@ -32,7 +32,6 @@
 
 .menu {
     display: flex;
-
 }
 
 .menuItems {
@@ -87,6 +86,7 @@
     .menuBtn {
         display: block;
         cursor: pointer;
+        margin-top: 15px;
     }
 
     .menuItems {
