@@ -54,10 +54,11 @@ export const Hero = () => {
                     <span className={styles.animatedWord}>{displayText}</span>
                     <span className={styles.cursor}></span>
                 </p>
-                <p className={styles.description}>Being a software engineer, I enjoy writing code that has
-                    business value in the digital world. I am often wanting to take a deeper look into new
-                    technologies, figuring out what problems they can solve, and employing them to create
-                    solid and scalable solutions.</p>
+                <p className={styles.description}>
+                    Results-driven Software Engineer with 8+ months of experience in full-stack development, specializing in React.js, Bootstrap, and JavaScript for the frontend, and Node.js, Java, Python, and MySQL for the backend. Skilled in API development, database management, and cloud deployment, with a strong focus on building scalable, user-friendly applications.
+                    <br /><br />
+                    As a freelancer, I have developed projects such as a Ride Booking App, a Car Service Management System, and a Real-Time Chat Application, enhancing my expertise in web and mobile application development. Additionally, I hold certifications in web development and Java, demonstrating my commitment to continuous learning and innovation.</p>
+                </p>
                 <ul className={styles.socailBtn}>
                     <li>
                         <a href="https://drive.google.com/file/d/1bX2pkeq2Jeil8DTGFRpoDqnV5pBYKb2i/view?usp=drivesdk" target='_blank' className={styles.contactBtn}>Download  CV</a>
