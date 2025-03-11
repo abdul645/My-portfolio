@@ -61,7 +61,7 @@ export const Hero = () => {
                 </p>
                 <ul className={styles.socailBtn}>
                     <li>
-                        <a href="https://drive.google.com/file/d/1bX2pkeq2Jeil8DTGFRpoDqnV5pBYKb2i/view?usp=drivesdk" target='_blank' className={styles.contactBtn}>Download  CV</a>
+                        <a href="https://drive.google.com/file/d/1TfKWfRhVcwv-fFdNJLyCGai7-uwGOFhP/view?usp=drivesdk" target='_blank' className={styles.contactBtn}>Download  CV</a>
                     </li>
                     <ul className={styles.BtnLinks}>
                         <li className={styles.Btn}>
