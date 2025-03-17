@@ -57,7 +57,7 @@ export const Hero = () => {
                 <p className={styles.description}>
                     Results-driven Software Engineer with 8+ months of experience in full-stack development, specializing in React.js, Bootstrap, and JavaScript for the frontend, and Node.js, Java, Python, and MySQL for the backend. Skilled in API development, database management, and cloud deployment, with a strong focus on building scalable, user-friendly applications.
                     <br /><br />
-                    As a freelancer, I have developed projects such as a Ride Booking App, a Car Service Management System, and a Real-Time Chat Application, enhancing my expertise in web and mobile application development. Additionally, I hold certifications in web development and Java, demonstrating my commitment to continuous learning and innovation.
+                    As a freelancer, I have developed projects such as a Ride Booking App, AutoCare Service Center, and a Real-Time Chat Application, enhancing my expertise in web and mobile application development. Additionally, I hold certifications in web development and Java, demonstrating my commitment to continuous learning and innovation.
                 </p>
                 <ul className={styles.socailBtn}>
                     <li>
