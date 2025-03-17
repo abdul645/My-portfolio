@@ -1,5 +1,13 @@
 [
     {
+    "title": "AutoCare Service Center",
+    "imageSrc": "projects/AutoCare Service Center.png",
+    "description": "AutoCare offers various car services with easy appointment booking, real-time slot availability, secure online payments, and instant confirmation emails for users and the team.",
+    "skills": ["JavaScript", "Nodejs", "HTML5", "CSS", "MySQL"],
+    "demo": "http://13.127.8.204:8003/services",
+    "source": "https://github.com/abdul645"
+  },
+    {
       "title": "Ride booking web application",
       "imageSrc": "projects/RideEase.png",
       "description": "Developed a comprehensive ride booking app with features for route mapping and user authentication. Successfully managed the entire development process from conception to deployment.",
